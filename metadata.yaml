@@ -1,0 +1,38 @@
+_repo: Golden-Lads_19131
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19131-h/images/imgcover.jpg
+creator:
+  authors:
+  - agent_name: Gleason, Arthur
+    alias: Gleason, Arthur Huntington
+    birthdate: 1878
+    deathdate: 1923
+    gutenberg_agent_id: '8493'
+    url: http://www.gutenberg.org/2009/agents/8493
+  - agent_name: Gleason, Helen Hayes
+    gutenberg_agent_id: '8494'
+    url: http://www.gutenberg.org/2009/agents/8494
+description: 'The conquerors: The spy. The atrocity. Ballad of the Germans. The steam
+  roller. My experience with Baedeker -- Golden lads : the play-boys of Brittany.
+  "Enchanted cigarettes". Was it real? "Chantons". Flies : a fantasy. Women under
+  fire. How war seems to a woman. Les travailleurs de la guerre. Remaking France.'
+gutenberg_issued: '2006-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+tableOfContents: "The conquerors: The spy. The atrocity. Ballad of the Germans. The\
+  \ steam roller. My experience with Baedeker.\r\n\r\nGolden lads: The play-boys of\
+  \ Brittany. \"Enchanted cigarettes.\" Was it real? \"Chantons, Belges! Chantons!\"\
+  \ Flies: a fantasy. Women under fire. How war seems to a woman. Les travailleurs\
+  \ de la guerre. Remaking France."
+title: Golden Lads
+url: http://www.gutenberg.org/ebooks/19131
